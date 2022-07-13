@@ -1,5 +1,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://alamat url tempat file ssr di simpan"></script>
+<script src="https://github.com/semutapi/impost/blob/main/Cendol.js"></script>
 <body>
 <p class="unbroken">
 The internet has revolutionized the way businesses find new business opportunities. Instead of relying on word-of-mouth or local networking events to find potential partnerships, products, and services—businesses can use the internet to find them online. 
